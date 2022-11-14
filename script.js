@@ -5,4 +5,4 @@
   document.createElement("p");
   p.textContent = n.getDate();
   
-  document.querySelector("#date").append(p);
+  document.querySelector("#date").append("The date is" + p);
