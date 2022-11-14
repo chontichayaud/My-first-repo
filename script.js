@@ -2,5 +2,7 @@
   y = n.getFullYear();
   m = n.getMonth() + 1;
   d = n.getDate();
-  document.getElementById("date").innerHTML = <p>${d}</p>;
-
+  document.createElement("p");
+  p.textContent = n.getDate();
+  
+  document.querySelector("#date").append(p);
