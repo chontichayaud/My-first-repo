@@ -1,3 +1,7 @@
+header {
+  background-color: grey;
+}
+
 body {
   display: block;
 }
@@ -27,4 +31,5 @@ img {
 }
 footer {
   text-align: center;
+  background-color: grey;
 }
