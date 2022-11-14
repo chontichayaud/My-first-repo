@@ -1,1 +1,0 @@
-var today = new Date();
