@@ -1,8 +1,15 @@
+html{
+  background-color: blanchedalmond;
+}
 
 body {
   display: block;
+  
 }
 
+p {
+  width: 80%;
+}
 h1 {
   color: rgb(195, 38, 192);
   text-align: left;
