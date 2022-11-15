@@ -1,5 +1,6 @@
 body {
   display: block;
+  font-family: proxima-nova;
 }
 
 h1 {
@@ -25,9 +26,7 @@ img {
   margin: 0 auto;
   padding-top: 10px;
 }
-p {
-  margin: 0 auto;
-}
+
 footer {
   text-align: center;
   background-color:rgb(230, 227, 227) ;
