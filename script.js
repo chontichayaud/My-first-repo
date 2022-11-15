@@ -11,3 +11,4 @@
   document.querySelector("#dateIn6Weeks").append(plus6Weeks.getDate() + "/" + (plus6Weeks.getMonth()+1) + "/" + plus6Weeks.getFullYear());
 
   console.log("This worked");
+  
