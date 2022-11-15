@@ -6,3 +6,4 @@
   p.textContent = n.getDate();
   
   document.querySelector("#date").append("The date is" + p);
+  console.log("This worked");
