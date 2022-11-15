@@ -34,6 +34,7 @@ footer {
 }
 .nev {
   text-align: right;
+  padding: 8px;
 }
 .current-date {
   text-align: right;
