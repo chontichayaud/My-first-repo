@@ -20,11 +20,14 @@ h3 {
 }
 img {
   display: block;
+  max-width: 80%;
   height: auto;
   padding-top: 10px;
 }
 footer {
+  display: block;
   text-align: center;
+  background-color:rgb(230, 227, 227) ;
 }
 .nev {
   text-align: right;
