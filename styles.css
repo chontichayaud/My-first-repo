@@ -1,6 +1,7 @@
 body {
   display: block;
   font-family: proxima-nova;
+  margin: 0 auto;
 }
 
 h1 {
@@ -36,4 +37,7 @@ footer {
 }
 .current-date {
   text-align: right;
+}
+.buggy-friendly-list{
+  font-weight: bold;
 }
