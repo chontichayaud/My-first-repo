@@ -29,3 +29,9 @@ img {
 footer {
   text-align: center;
 }
+.nev {
+  text-align: right;
+}
+.current-date {
+  text-align: right;
+}
