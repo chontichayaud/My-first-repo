@@ -5,12 +5,13 @@ body {
 h1 {
   color: rgb(195, 38, 192);
   text-align: left;
-  font-size: 50px;
+  font-size: 30px;
 }
 h2 {
   color: rgb(26, 88, 220);
   text-align: center;
   padding-top: 20px;
+  font-size: 60px;
 }
 
 h3 {
@@ -19,19 +20,15 @@ h3 {
 }
 img {
   display: block;
-  margin: auto 0 auto 0;
   height: auto;
   padding-top: 10px;
 }
 footer {
   text-align: center;
-  background-color: rgb(201, 195, 195);
 }
 .nev {
   text-align: right;
-  margin-right: auto;
 }
 .current-date {
   text-align: right;
-  margin-right: auto;
 }
